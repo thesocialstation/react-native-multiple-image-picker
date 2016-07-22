@@ -1,0 +1,7 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '8.0'
+
+target 'MultipleImagePicker' do
+  pod 'React', :path => '../node_modules/react-native'
+  pod 'QBImagePickerController', '3.4.0'
+end

@@ -1,0 +1,21 @@
+PODS:
+  - QBImagePickerController (3.4.0)
+  - React (0.29.2):
+    - React/Core (= 0.29.2)
+  - React/Core (0.29.2)
+
+DEPENDENCIES:
+  - QBImagePickerController (= 3.4.0)
+  - React (from `../node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: "../node_modules/react-native"
+
+SPEC CHECKSUMS:
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  React: 3da805a4fcb127434843924494de838e9658ca78
+
+PODFILE CHECKSUM: 44e89ba9640e8041e33da05e89d6fd09b0597a78
+
+COCOAPODS: 1.0.1

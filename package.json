@@ -1,0 +1,27 @@
+{
+  "name": "react-native-multiple-image-picker",
+  "description": "A simple native multiple image picker without all the cruft.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesocialstation/react-native-multiple-image-picker.git"
+  },
+  "nativePackage": true,
+  "author": "Ron Heft (ronaldheft)",
+  "keywords": [
+    "react-native",
+    "react-native-image-picker",
+    "react-native-multiple-image-picker",
+    "react",
+    "native",
+    "image",
+    "picker"
+  ],
+  "dependencies": {
+    "react-native": "^0.29.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.29.0"
+  }
+}
